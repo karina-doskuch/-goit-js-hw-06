@@ -33,10 +33,6 @@ galleryRef.insertAdjacentHTML('afterbegin', imagesHtml);
 
 
 
-// I
-// i
-// A
-// h2
-// a
+
 
 

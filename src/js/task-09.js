@@ -10,7 +10,6 @@ changeColor.addEventListener('click', event => {
   const color = getRandomHexColor();
   bodyRef.style.backgroundColor = color;
   colorSpan.textContent = color;
-
 });
 
 
